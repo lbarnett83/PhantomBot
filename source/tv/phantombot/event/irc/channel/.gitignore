@@ -1,0 +1,5 @@
+/IrcChannelEvent.class
+/IrcChannelJoinEvent.class
+/IrcChannelLeaveEvent.class
+/IrcChannelUserModeEvent.class
+/IrcChannelUsersUpdateEvent.class
